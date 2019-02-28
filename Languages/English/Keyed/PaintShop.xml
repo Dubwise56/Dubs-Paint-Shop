@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DesignatorPaintTools>Paint Tool</DesignatorPaintTools>
+  <DesignatorPaintToolsDesc>Paint buildings, apparel and terrain</DesignatorPaintToolsDesc>
+  <PaintApparel>Paint Apparel Tool</PaintApparel>
+  <PaintWalls>Paint Walls Tool</PaintWalls>
+  <PaintBuildings>Paint Buildings Tool</PaintBuildings>
+  <PaintDoors>Paint Doors Tool</PaintDoors>
+  <EraserTool>Eraser Tool</EraserTool>
+  <EyedropperObject>Object Eyedropper Tool</EyedropperObject>
+  <EyedropperPixel>Pixel Eyedropper Tool</EyedropperPixel>
+  <PaintTerrain>Paint Terrain Tool</PaintTerrain>
+  <EraseTerrain>Erase Terrain Tool</EraseTerrain>
+  <PaintAll>Paint Tool</PaintAll>
+  <ZoneColourTool>Colour Zone Tool</ZoneColourTool>
+  <CopyPalette>Copy Palette</CopyPalette>
+  <EditPalette>Edit Palette</EditPalette>
+  <DeletePalette>Delete Palette</DeletePalette>
+  <ClearDesTool>Clear Paint Designator</ClearDesTool>
+</LanguageData>

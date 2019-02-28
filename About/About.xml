@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Dub's Paint Shop</name>
+	<author>Dubwise</author>
+	<url></url>
+	  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+	<description>Adds painting tools to change the colour of stuffed or colourable buildings, apparel, and terrain 1.0.66\n\nMultiplayer Ready</description>
+</ModMetaData>
