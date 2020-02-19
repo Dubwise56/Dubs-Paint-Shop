@@ -4,8 +4,10 @@
 	<name>Dub's Paint Shop</name>
 	<author>Dubwise</author>
 	<url>https://github.com/Dubwise56/Dubs-Paint-Shop</url>
-	  <supportedVersions>
+  <supportedVersions>
     <li>1.0</li>
+    <li>1.1</li>
   </supportedVersions>
-	<description>Adds painting tools to change the colour of stuffed or colourable buildings, apparel, and terrain 1.1.378\n\nMultiplayer Ready</description>
+  <packageId>Dubwise.DubsPaintShop</packageId>
+	<description>Adds painting tools to change the colour of stuffed or colourable buildings, apparel, and terrain\n\nMultiplayer Ready</description>
 </ModMetaData>
