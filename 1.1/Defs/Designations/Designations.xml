@@ -24,5 +24,18 @@
     <texturePath>JOP/UI/PaintDes</texturePath>
     <targetType>Cell</targetType>
   </DesignationDef>
-  
+
+
+  <MainButtonDef>
+    <defName>PaintShop</defName>
+    <label>Dubs Paint Shop</label>
+    <description>Open painting tools.</description>
+    <workerClass>DubRoss.MainButtonWorker_TogglePaintshop</workerClass>
+    <order>100</order>
+    <defaultHotKey></defaultHotKey>
+    <validWithoutMap>false</validWithoutMap>
+    <minimized>True</minimized>
+    <iconPath>JOP/PaintBrush</iconPath>
+  </MainButtonDef>
+
 </Defs>

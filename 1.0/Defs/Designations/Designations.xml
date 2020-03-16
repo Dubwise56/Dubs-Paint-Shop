@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DesignationDef>
+    <defName>PaintThing</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Thing</targetType>
+  </DesignationDef>
+
+  <DesignationDef>
+    <defName>PaintCell</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Cell</targetType>
+  </DesignationDef>
+
+  <DesignationDef>
+    <defName>PaintStripThing</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Thing</targetType>
+  </DesignationDef>
+
+  <DesignationDef>
+    <defName>PaintStripCell</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Cell</targetType>
+  </DesignationDef>
+
+</Defs>
