@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DesignatorPaintTools>Färbungstool</DesignatorPaintTools>
+  <DesignatorPaintToolsDesc>Färbe Gebäude, Kleidung und Gelände.</DesignatorPaintToolsDesc>
+  <PaintApparel>Färbe Kleidung</PaintApparel>
+  <PaintWalls>Färbe Wände</PaintWalls>
+  <PaintBuildings>Färbe Gebäude</PaintBuildings>
+  <PaintDoors>Färbe Türen</PaintDoors>
+  <EraserTool>Färbung Löschen</EraserTool>
+  <EyedropperObject>Objekt Pipetten-Werkzeug</EyedropperObject>
+  <EyedropperPixel>Pixel Pipetten-Werkzeug</EyedropperPixel>
+  <PaintTerrain>Färbe Gelände</PaintTerrain>
+  <EraseTerrain>Geländefärbung löschen</EraseTerrain>
+  <PaintAll>Färbungstool</PaintAll>
+  <ZoneColourTool>Farbzonen-Werkzeug</ZoneColourTool>
+  <CopyPalette>Kopiere Farbpalette</CopyPalette>
+  <EditPalette>Bearbeite Farbpalette</EditPalette>
+  <DeletePalette>Lösche Farbpalette</DeletePalette>
+  <ClearDesTool>Färbungsjob abbrechen</ClearDesTool>
+
+</LanguageData>
