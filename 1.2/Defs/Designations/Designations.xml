@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DesignationDef>
+    <defName>PaintThing</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Thing</targetType>
+  </DesignationDef>
+
+  <DesignationDef>
+    <defName>PaintCell</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Cell</targetType>
+  </DesignationDef>
+
+  <DesignationDef>
+    <defName>PaintStripThing</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Thing</targetType>
+  </DesignationDef>
+
+  <DesignationDef>
+    <defName>PaintStripCell</defName>
+    <texturePath>JOP/UI/PaintDes</texturePath>
+    <targetType>Cell</targetType>
+  </DesignationDef>
+
+
+  <MainButtonDef>
+    <defName>PaintShop</defName>
+    <label>Dubs Paint Shop</label>
+    <description>Open painting tools.</description>
+    <workerClass>DubRoss.MainButtonWorker_TogglePaintshop</workerClass>
+    <order>100</order>
+    <defaultHotKey></defaultHotKey>
+    <validWithoutMap>false</validWithoutMap>
+    <minimized>True</minimized>
+    <iconPath>JOP/PaintBrush</iconPath>
+  </MainButtonDef>
+
+</Defs>
