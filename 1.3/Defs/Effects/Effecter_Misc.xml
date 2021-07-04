@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <EffecterDef>
+    <defName>PaintingEffect</defName>
+    <children>
+      <li>
+        <subEffecterClass>DubRoss.SubEffecter_Painter</subEffecterClass>
+        <scale>
+          <min>0.3</min>
+          <max>1</max>
+        </scale>
+        <ticksBetweenMotes>20</ticksBetweenMotes>
+        <positionLerpFactor>0.6</positionLerpFactor>
+        <positionRadius>0.6</positionRadius>
+        <moteDef>Mote_PaintSplashes</moteDef>
+      </li>
+      <li>
+        <subEffecterClass>SubEffecter_InteractSymbol</subEffecterClass>
+        <moteDef>Mote_PaintBrush</moteDef>
+      </li>
+    </children>
+  </EffecterDef>
+
+  <ThingDef ParentName="MoteBase">
+    <defName>Mote_PaintBrush</defName>
+    <thingClass>MoteDualAttached</thingClass>
+    <altitudeLayer>MetaOverlays</altitudeLayer>
+    <mote>
+    </mote>
+    <graphicData>
+      <texPath>JOP/PaintBrush</texPath>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="MoteBase">
+    <defName>Mote_PaintSplashes</defName>
+    <thingClass>MoteDualAttached</thingClass>
+    <altitudeLayer>MoteLow</altitudeLayer>
+    <mote>
+      <fadeInTime>0.04</fadeInTime>
+      <solidTime>0.5</solidTime>
+      <fadeOutTime>2</fadeOutTime>
+    </mote>
+    <graphicData>
+      <texPath>JOP/splash</texPath>
+    </graphicData>
+  </ThingDef>
+  
+</Defs>

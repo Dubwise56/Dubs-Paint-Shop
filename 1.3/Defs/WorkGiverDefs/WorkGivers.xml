@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <WorkGiverDef>
+    <defName>PaintThings</defName>
+    <label>paint things</label>
+    <giverClass>DubRoss.WorkGiver_PaintThings</giverClass>
+    <workType>Construction</workType>
+    <verb>paint</verb>
+    <gerund>painting</gerund>
+    <priorityInType>21</priorityInType>
+    <scanThings>true</scanThings>
+    <scanCells>true</scanCells>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+</Defs>
