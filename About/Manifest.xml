@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <Manifest>
   <identifier>Dub's Paint Shop</identifier>
-  <version>1.1.562</version>
-  <manifestUri>https://github.com/Dubwise56/Dubs-Paint-Shop/master/About/Manifest.xml</manifestUri>
+  <version>1.1.564</version>
+  <manifestUri>https://github.com/Dubwise56/Dubs-Paint-Shop/blob/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/Dubwise56/Dubs-Paint-Shop/releases/latest</downloadUri>
 </Manifest>
