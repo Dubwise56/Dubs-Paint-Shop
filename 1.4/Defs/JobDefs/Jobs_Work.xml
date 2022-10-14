@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <JobDef>
+    <defName>PaintThings</defName>
+    <driverClass>DubRoss.JobDriver_PaintThings</driverClass>
+    <reportString>Painting TargetA.</reportString>
+  </JobDef>
+  
+  <JobDef>
+    <defName>PaintCells</defName>
+    <driverClass>DubRoss.JobDriver_PaintCells</driverClass>
+    <reportString>Painting TargetA.</reportString>
+  </JobDef>
+  
+</Defs>
