@@ -7,18 +7,18 @@
       <li>
         <subEffecterClass>DubRoss.SubEffecter_Painter</subEffecterClass>
         <scale>
-          <min>0.3</min>
-          <max>1</max>
+          <min>0.1</min>
+          <max>0.4</max>
         </scale>
         <ticksBetweenMotes>20</ticksBetweenMotes>
         <positionLerpFactor>0.6</positionLerpFactor>
         <positionRadius>0.6</positionRadius>
         <moteDef>Mote_PaintSplashes</moteDef>
       </li>
-      <li>
+      <!--<li>
         <subEffecterClass>SubEffecter_InteractSymbol</subEffecterClass>
         <moteDef>Mote_PaintBrush</moteDef>
-      </li>
+      </li>-->
     </children>
   </EffecterDef>
 

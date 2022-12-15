@@ -15,13 +15,13 @@
 
   <DesignationDef>
     <defName>PaintStripThing</defName>
-    <texturePath>JOP/UI/PaintDes</texturePath>
+    <texturePath>Designations/RemovePaint</texturePath>
     <targetType>Thing</targetType>
   </DesignationDef>
 
   <DesignationDef>
     <defName>PaintStripCell</defName>
-    <texturePath>JOP/UI/PaintDes</texturePath>
+    <texturePath>Designations/RemovePaint</texturePath>
     <targetType>Cell</targetType>
   </DesignationDef>
 

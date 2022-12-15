@@ -2,10 +2,43 @@
 <Defs>
 
   <WorkGiverDef>
-    <defName>PaintThings</defName>
+    <defName>DPSPaintThings</defName>
     <label>paint things</label>
     <giverClass>DubRoss.WorkGiver_PaintThings</giverClass>
-    <workType>Construction</workType>
+    <workType>Art</workType>
+    <verb>paint</verb>
+    <gerund>painting</gerund>
+    <priorityInType>21</priorityInType>
+    <scanThings>true</scanThings>
+    <scanCells>false</scanCells>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <canBeDoneByMechs>false</canBeDoneByMechs>
+  </WorkGiverDef>
+ 
+
+  <WorkGiverDef>
+    <defName>DPSPaintFloors</defName>
+    <label>paint floors</label>
+    <giverClass>DubRoss.WorkGiver_PaintFloors</giverClass>
+    <workType>Art</workType>
+    <verb>paint</verb>
+    <gerund>painting</gerund>
+    <priorityInType>21</priorityInType>
+    <scanThings>false</scanThings>
+    <scanCells>true</scanCells>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <canBeDoneByMechs>false</canBeDoneByMechs>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>DPSStripPaint</defName>
+    <label>strip paint</label>
+    <giverClass>DubRoss.WorkGiver_StripPaint</giverClass>
+    <workType>Art</workType>
     <verb>paint</verb>
     <gerund>painting</gerund>
     <priorityInType>21</priorityInType>
@@ -14,6 +47,7 @@
     <requiredCapacities>
       <li>Manipulation</li>
     </requiredCapacities>
+    <canBeDoneByMechs>false</canBeDoneByMechs>
   </WorkGiverDef>
   
 </Defs>
