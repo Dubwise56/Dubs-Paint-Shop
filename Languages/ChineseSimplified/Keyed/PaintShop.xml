@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Paint Tool -->
+  <DesignatorPaintTools>着色工具</DesignatorPaintTools>
+  <!-- EN: Paint buildings, apparel and terrain -->
+  <DesignatorPaintToolsDesc>给建筑物、服装或地板着色</DesignatorPaintToolsDesc>
+  <!-- EN: Paint Apparel Tool -->
+  <PaintApparel>服装着色工具</PaintApparel>
+  <!-- EN: Paint Walls Tool -->
+  <PaintWalls>墙着色工具</PaintWalls>
+  <!-- EN: Paint Buildings Tool -->
+  <PaintBuildings>建筑着色工具</PaintBuildings>
+  <!-- EN: Paint Doors Tool -->
+  <PaintDoors>门着色工具</PaintDoors>
+  <!-- EN: Eraser Tool -->
+  <EraserTool>物体着色擦除工具</EraserTool>
+  <!-- EN: Object Eyedropper Tool -->
+  <EyedropperObject>物体取色工具</EyedropperObject>
+  <!-- EN: Pixel Eyedropper Tool -->
+  <EyedropperPixel>像素点取色工具</EyedropperPixel>
+  <!-- EN: Paint Terrain Tool -->
+  <PaintTerrain>地板着色工具</PaintTerrain>
+  <!-- EN: Erase Terrain Tool -->
+  <EraseTerrain>地板着色擦除工具</EraseTerrain>
+  <!-- EN: Paint Tool -->
+  <PaintAll>着色工具</PaintAll>
+  <!-- EN: Colour Zone Tool -->
+  <ZoneColourTool>区域着色工具</ZoneColourTool>
+  <!-- EN: Copy Palette -->
+  <CopyPalette>复制调色板</CopyPalette>
+  <!-- EN: Edit Palette -->
+  <EditPalette>编辑调色板</EditPalette>
+  <!-- EN: Delete Palette -->
+  <DeletePalette>删除调色板</DeletePalette>
+  <!-- EN: Clear Paint Designator -->
+  <ClearDesTool>清除着色标记</ClearDesTool>
+</LanguageData>
