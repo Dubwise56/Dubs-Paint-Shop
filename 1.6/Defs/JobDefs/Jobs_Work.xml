@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <JobDef>
+    <defName>DPSPaintThings</defName>
+    <driverClass>DubRoss.JobDriver_PaintThings</driverClass>
+    <reportString>Painting TargetA.</reportString>
+  </JobDef>
+  
+  <JobDef>
+    <defName>DPSPaintCells</defName>
+    <driverClass>DubRoss.JobDriver_PaintCells</driverClass>
+    <reportString>Painting TargetA.</reportString>
+  </JobDef>
+
+  <JobDef>
+    <defName>DPSStripCells</defName>
+    <driverClass>DubRoss.JobDriver_StripCells</driverClass>
+    <reportString>Stripping paint from TargetA.</reportString>
+  </JobDef>
+
+  <JobDef>
+    <defName>DPSStripThings</defName>
+    <driverClass>DubRoss.JobDriver_StripThings</driverClass>
+    <reportString>Stripping paint from TargetA.</reportString>
+  </JobDef>
+  
+</Defs>
