@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Painting TargetA. -->
+  <PaintCells.reportString>正在着色于 TargetA。</PaintCells.reportString>
+  
+  <!-- EN: Painting TargetA. -->
+  <PaintThings.reportString>正在着色于 TargetA。</PaintThings.reportString>
+  
+</LanguageData>
