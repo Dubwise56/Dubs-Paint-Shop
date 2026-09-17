@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: paint things -->
+  <PaintThings.label>給物品著色</PaintThings.label>
+  <!-- EN: painting -->
+  <PaintThings.gerund>著色</PaintThings.gerund>
+  <!-- EN: paint -->
+  <PaintThings.verb>著色</PaintThings.verb>
+  
+</LanguageData>
