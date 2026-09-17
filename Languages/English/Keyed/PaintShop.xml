@@ -18,4 +18,15 @@
   <EditPalette>Edit Palette</EditPalette>
   <DeletePalette>Delete Palette</DeletePalette>
   <ClearDesTool>Clear Paint Designator</ClearDesTool>
+  <DPS_Drag>Drag</DPS_Drag>
+  <DPS_Wiki>Paint Shop Wiki</DPS_Wiki>
+  <DPS_Discord>Dubs Mods Discord</DPS_Discord>
+  <DPS_TintBeds>Tint bed sheets (Hold Ctrl to paint)</DPS_TintBeds>
+  <DPS_JobMode>Job based painting</DPS_JobMode>
+  <DPS_LimitToOrders>Limit paint tool to orders</DPS_LimitToOrders>
+  <DPS_MainButton>Show paint tool icon on main buttons</DPS_MainButton>
+  <DPS_Current>Current</DPS_Current>
+  <DPS_Palettes>Palettes</DPS_Palettes>
+  <DPS_SaveChanges>Save changes</DPS_SaveChanges>
+  <DPS_Tools>Tools</DPS_Tools>
 </LanguageData>

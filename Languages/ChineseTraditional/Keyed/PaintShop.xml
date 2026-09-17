@@ -35,4 +35,26 @@
   <DeletePalette>刪除調色板</DeletePalette>
   <!-- EN: Clear Paint Designator -->
   <ClearDesTool>清除著色標記</ClearDesTool>
+  <!-- EN: Drag -->
+  <DPS_Drag>拖動</DPS_Drag>
+  <!-- EN: Paint Shop Wiki -->
+  <DPS_Wiki>Paint Shop 維基</DPS_Wiki>
+  <!-- EN: Dubs Mods Discord -->
+  <DPS_Discord>Dubs 模組 Discord</DPS_Discord>
+  <!-- EN: Tint bed sheets (Hold Ctrl to paint) -->
+  <DPS_TintBeds>給床單著色（按住 Ctrl 著色）</DPS_TintBeds>
+  <!-- EN: Job based painting -->
+  <DPS_JobMode>由殖民者執行著色工作</DPS_JobMode>
+  <!-- EN: Limit paint tool to orders -->
+  <DPS_LimitToOrders>著色工具僅顯示在命令欄</DPS_LimitToOrders>
+  <!-- EN: Show paint tool icon on main buttons -->
+  <DPS_MainButton>在主按鈕欄顯示著色工具圖示</DPS_MainButton>
+  <!-- EN: Current -->
+  <DPS_Current>目前</DPS_Current>
+  <!-- EN: Palettes -->
+  <DPS_Palettes>調色板</DPS_Palettes>
+  <!-- EN: Save changes -->
+  <DPS_SaveChanges>儲存變更</DPS_SaveChanges>
+  <!-- EN: Tools -->
+  <DPS_Tools>工具</DPS_Tools>
 </LanguageData>

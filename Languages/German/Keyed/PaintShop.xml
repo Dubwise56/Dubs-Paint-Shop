@@ -18,5 +18,15 @@
   <EditPalette>Bearbeite Farbpalette</EditPalette>
   <DeletePalette>Lösche Farbpalette</DeletePalette>
   <ClearDesTool>Färbungsjob abbrechen</ClearDesTool>
-
+  <DPS_Drag>Ziehen</DPS_Drag>
+  <DPS_Wiki>Paint Shop Wiki</DPS_Wiki>
+  <DPS_Discord>Dubs Mods Discord</DPS_Discord>
+  <DPS_TintBeds>Bettlaken färben (Strg halten zum Färben)</DPS_TintBeds>
+  <DPS_JobMode>Färben als Arbeitsauftrag</DPS_JobMode>
+  <DPS_LimitToOrders>Färbungstool nur unter Befehle</DPS_LimitToOrders>
+  <DPS_MainButton>Symbol in der Hauptleiste anzeigen</DPS_MainButton>
+  <DPS_Current>Aktuell</DPS_Current>
+  <DPS_Palettes>Farbpaletten</DPS_Palettes>
+  <DPS_SaveChanges>Änderungen speichern</DPS_SaveChanges>
+  <DPS_Tools>Werkzeuge</DPS_Tools>
 </LanguageData>
