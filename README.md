@@ -1,27 +1,42 @@
-A painting tool to change the colour of most buildings, apparel, zones and constructed terrain. Multiplayer ready
+# Dubs Paint Shop
 
-Toggle between job based painting or instant.
+By Dubwise
 
-Paint bed sheets with ctrl+click.
+A painting tool to change the colour of most buildings, apparel, zones and constructed terrain.
 
-Paint tool can be found in any architect menu near the cancel and deconstruct buttons.
+Multiplayer ready
 
-Colour coordinate your base, or use it as a modding tool.
+The paint tool can be found in any architect menu near the cancel and deconstruct buttons, or opened with a keybind.
 
-Create and edit palettes which are saved.
+## Painting
 
-hex and RGB input boxes, copy and paste works.
+- Paint buildings, walls, doors, apparel, zones and constructed terrain.
+- Toggle between job based painting (colonists fetch dye and paint it) or instant.
+- Paint bed sheets with ctrl+click.
+- Eraser and erase terrain tools to strip paint again.
+- Object and pixel eyedropper tools to pick a colour from the map.
+- Can be added to saves.
+- Should work with almost anything. Won't tint buildings that don't have the mask files for it to look right.
 
-Can be added to saves.
+## Palettes
 
-Should work with almost anything.
+- Create and edit palettes, which are saved between games.
+- Hex and RGB input boxes, copy and paste works.
 
-Won't tint buildings that don't have the mask files for it to look right.
+## Options
 
-https://ludeon.com/forums/index.php?topic=29043.0
+- Job based painting on or off.
+- Limit the paint tool to the orders menu.
+- Show the paint tool icon on the main buttons.
 
-Discord for my mods: https://discord.gg/bajcjsu
+## Bug Reports / Issue Tracker
 
-Support links!
+https://github.com/Dubwise56/Dubs-Paint-Shop/issues
 
-https://ko-fi.com/T6T6MYO0
+[Github Releases](https://github.com/Dubwise56/Dubs-Paint-Shop/releases)
+
+[Paint Shop Wiki](https://github.com/Dubwise56/Dubs-Paint-Shop/wiki)
+
+Discord for my mods: [Discord](https://discord.gg/bajcjsu)
+
+[Support me on Ko-fi](https://ko-fi.com/T6T6MYO0)
