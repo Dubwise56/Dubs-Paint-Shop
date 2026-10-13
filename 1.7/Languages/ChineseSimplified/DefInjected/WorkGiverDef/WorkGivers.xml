@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: paint things -->
+  <DPSPaintThings.label>给物品着色</DPSPaintThings.label>
+  <!-- EN: painting -->
+  <DPSPaintThings.gerund>着色</DPSPaintThings.gerund>
+  <!-- EN: paint -->
+  <DPSPaintThings.verb>着色</DPSPaintThings.verb>
+  
+  <!-- EN: paint floors -->
+  <DPSPaintFloors.label>给地板着色</DPSPaintFloors.label>
+  <!-- EN: painting -->
+  <DPSPaintFloors.gerund>着色</DPSPaintFloors.gerund>
+  <!-- EN: paint -->
+  <DPSPaintFloors.verb>着色</DPSPaintFloors.verb>
+  
+  <!-- EN: strip paint -->
+  <DPSStripPaint.label>去除涂色</DPSStripPaint.label>
+  <!-- EN: painting -->
+  <DPSStripPaint.gerund>着色</DPSStripPaint.gerund>
+  <!-- EN: paint -->
+  <DPSStripPaint.verb>着色</DPSStripPaint.verb>
+  
+</LanguageData>

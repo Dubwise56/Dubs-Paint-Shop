@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <DubRoss.DefExtensions>
+    <defName>DubRossExtensions</defName>
+  </DubRoss.DefExtensions>
+
+
+  <KeyBindingCategoryDef>
+    <defName>DubsPaintShop</defName>
+    <label>Dubs Paint Shop</label>
+    <description>Keybinds for Dubs Paint Shop.</description>
+    <isGameUniversal>true</isGameUniversal>
+  </KeyBindingCategoryDef>
+
+  <KeyBindingDef>
+    <category>DubsPaintShop</category>
+    <defName>PaintingTool</defName>
+    <label>Painting tool</label>
+    <defaultKeyCodeA></defaultKeyCodeA>
+  </KeyBindingDef>
+
+</Defs>

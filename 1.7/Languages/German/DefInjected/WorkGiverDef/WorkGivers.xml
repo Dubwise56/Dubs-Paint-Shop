@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DPSPaintThings.label>Färbe Sachen</DPSPaintThings.label>
+  <DPSPaintThings.verb>Färben</DPSPaintThings.verb>
+  <DPSPaintThings.gerund>Färbt</DPSPaintThings.gerund>
+
+  <DPSPaintFloors.label>Färbe Böden</DPSPaintFloors.label>
+  <DPSPaintFloors.verb>Färben</DPSPaintFloors.verb>
+  <DPSPaintFloors.gerund>Färbt</DPSPaintFloors.gerund>
+
+  <DPSStripPaint.label>Entferne Farbe</DPSStripPaint.label>
+  <DPSStripPaint.verb>Färben</DPSStripPaint.verb>
+  <DPSStripPaint.gerund>Färbt</DPSStripPaint.gerund>
+
+
+</LanguageData>
